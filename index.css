@@ -1,0 +1,58 @@
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.insta{
+    font-style: italic;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+.email{
+    width: 300px;
+    height: 40px;
+    font-size: 14px;
+    padding-left: 7px;
+    outline: none;
+    border: 1px solid #b4b4b4;
+    border-radius: 5px;
+}
+.pass{
+    margin-top: 20px;   
+}
+
+.btn1{
+    background: rgb(58, 58, 228);
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    border: none;
+    color: #fff;
+}
+
+.div1{
+    width: 100%;
+    height: 1px;
+    border: 1px solid #b4b4b4;
+    margin-top: 15px;
+}
+.ili{
+    margin-top: 5px;
+}
+
+
+.face{
+    text-decoration: none;
+    color: rgb(18, 18, 62);
+}
+.regist{
+    font-size: 14px;
+}
